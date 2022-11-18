@@ -1,6 +1,6 @@
 ## Hosted Project
 
-[E-Commerce API Heroku URL](https://e-commerce-api-10.herokuapp.com/)
+[E-Commerce API Heroku URL](https://e-commerce-api-n1c3.onrender.com)
 
 - A Simple E-Commerce API Project that lets user to do all the CRUD functionality for example:=
 
